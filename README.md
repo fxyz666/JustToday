@@ -286,7 +286,7 @@ npm run preview
 
 - **问题反馈**：[GitHub Issues](https://github.com/yourusername/lifesync-desktop/issues)
 - **功能建议**：[GitHub Discussions](https://github.com/yourusername/lifesync-desktop/discussions)
-- **电子邮件**：support@lifesync.app
+- **电子邮件**：fwl13135394457@163.com
 
 ---
 
