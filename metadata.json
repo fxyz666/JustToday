@@ -1,0 +1,5 @@
+{
+  "name": "LifeSync - OmniDevice Planner",
+  "description": "A cross-platform time tracking and goal management system with device usage integration and Gantt-style scheduling.",
+  "requestFramePermissions": []
+}
